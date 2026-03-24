@@ -151,13 +151,11 @@ html {
   scroll-behavior: smooth;
 }
 
-/* ================= IMAGENS ================= */
-
 /* Imagem destaque */
 .imagem-destaque {
-  display: inline-block; /* 👈 melhor que inline */
-  margin: 25px 110px;     /* 👈 espaçamento lateral */
-  max-width: 48%;        /* 👈 permite duas lado a lado */
+  display: inline-block; 
+  margin: 25px 110px;     /*espaçamento lateral */
+  max-width: 48%;        
   max-height: 65vh;
 
   width: auto;
@@ -243,8 +241,6 @@ figcaption {
 .footer p {
   padding-top: 14px;
 }
-
-/* ================= RESPONSIVO ================= */
 
 @media (max-width: 768px) {
 
