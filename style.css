@@ -154,7 +154,7 @@ html {
 /* Imagem destaque */
 .imagem-destaque {
   display: inline-block; 
-  margin: 25px 100px;     /*espaçamento lateral */
+  margin: 25px 80px;     /*espaçamento lateral */
   max-width: 48%;        
   max-height: 65vh;
 
